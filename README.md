@@ -1,2 +1,2 @@
-# agile-final-project
-Final Project For The Course: Introduction To Agile Development And Scrum
+# agile project
+Agile project
